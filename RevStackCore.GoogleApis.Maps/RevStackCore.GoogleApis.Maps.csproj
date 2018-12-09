@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageId>RevStackCore.GoogleApis.Maps</PackageId>
-    <PackageVersion>1.0.0</PackageVersion>
+    <PackageVersion>1.0.1</PackageVersion>
     <Authors>S. Francis</Authors>
     <Description>Google APIs Maps/Geocoding services</Description>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>

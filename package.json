@@ -1,6 +1,6 @@
 {
   "name": "RevStackCore.GoogleApis.Maps",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Google APIs Maps/Geocoding services",
     "main": "RevStackCore.GoogleApis.Maps.sln",
   "scripts": {

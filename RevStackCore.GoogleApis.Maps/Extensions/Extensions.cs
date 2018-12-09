@@ -1,5 +1,5 @@
 ﻿using System;
-namespace RevStackCore.Google.Maps
+namespace RevStackCore.GoogleApis.Maps
 {
     public static partial class GeoCodingExtensions
     {

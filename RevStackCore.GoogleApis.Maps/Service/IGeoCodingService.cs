@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using RevStackCore.Extensions.GeoLocation;
 
-namespace RevStackCore.Google.Maps
+namespace RevStackCore.GoogleApis.Maps
 {
     public interface IGeoCodingService
     {

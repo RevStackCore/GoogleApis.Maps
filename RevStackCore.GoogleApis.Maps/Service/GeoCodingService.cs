@@ -8,7 +8,7 @@ using RevStackCore.Extensions.GeoLocation;
 using RevStackCore.GoogleApis.Core;
 
 
-namespace RevStackCore.Google.Maps
+namespace RevStackCore.GoogleApis.Maps
 {
     public class GeoCodingService : IGeoCodingService
     {

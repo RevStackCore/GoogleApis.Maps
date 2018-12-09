@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace RevStackCore.Google.Maps
+namespace RevStackCore.GoogleApis.Maps
 {
 
     public class AddressComponent
