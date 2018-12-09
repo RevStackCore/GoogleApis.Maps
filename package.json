@@ -1,0 +1,19 @@
+{
+  "name": "RevStackCore.GoogleApis.Maps",
+  "version": "1.0.0",
+  "description": "Google APIs Maps/Geocoding services",
+    "main": "RevStackCore.GoogleApis.Maps.sln",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RevStackCore/GoogleApis.Maps.git"
+  },
+  "author": "S. Francis",
+  "license": "MIT",
+  "bugs": {
+        "url": "https://github.com/RevStackCore/GoogleApis.Maps/issues"
+  },
+    "homepage": "https://github.com/RevStackCore/GoogleApis.Maps"
+}

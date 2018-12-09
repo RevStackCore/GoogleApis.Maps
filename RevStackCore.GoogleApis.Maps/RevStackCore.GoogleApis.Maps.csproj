@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>RevStackCore.GoogleApis.Maps</PackageId>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Authors>S. Francis</Authors>
+    <Description>Google APIs Maps/Geocoding services</Description>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageReleaseNotes>Net Standard 2.0 release</PackageReleaseNotes>
+    <Copyright>Copyright 2018</Copyright>
+    <PackageTags>RevStackCore Google APIs Maps</PackageTags>	
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="RevStackCore.GoogleApis.Core" Version="1.0.0" />
+    <PackageReference Include="RevStackCore.Extensions.GeoLocation" Version="1.0.4" />
+  </ItemGroup>
+</Project>
