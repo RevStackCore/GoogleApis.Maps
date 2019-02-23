@@ -3,11 +3,14 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageId>RevStackCore.GoogleApis.Maps</PackageId>
-    <PackageVersion>1.0.1</PackageVersion>
+    <PackageVersion>1.0.2</PackageVersion>
     <Authors>S. Francis</Authors>
     <Description>Google APIs Maps/Geocoding services</Description>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageReleaseNotes>Net Standard 2.0 release</PackageReleaseNotes>
+    <PackageProjectUrl>https://github.com/RevStackCore/GoogleApis.Maps.git</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/RevStackCore/GoogleApis.Maps/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageIconUrl>https://s3.amazonaws.com/revstack/icons/revstackcore-64x64.png</PackageIconUrl>
     <Copyright>Copyright 2018</Copyright>
     <PackageTags>RevStackCore Google APIs Maps</PackageTags>	
   </PropertyGroup>
